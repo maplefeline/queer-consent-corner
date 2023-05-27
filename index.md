@@ -7,7 +7,7 @@ date:   2023-05-19 17:42:55 -0700
 
 # Resources
 
-https://linktr.ee/queer_consent_corner
+[linktr.ee](https://linktr.ee/queer_consent_corner)
 
 # Posts
 
