@@ -3,13 +3,15 @@ layout: layout
 date:   2023-05-19 17:42:55 -0700
 ---
 
+# Start Here
+
 [Rules](/rules/)
 
-# Resources
+## Resources
 
 [linktr.ee](https://linktr.ee/queer_consent_corner)
 
-# Posts
+## Posts
 
 <ul>
   {% for post in site.posts %}
